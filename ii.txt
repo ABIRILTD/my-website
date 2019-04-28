@@ -1,1 +1,1 @@
-this is some new text
+this is a new line from master
