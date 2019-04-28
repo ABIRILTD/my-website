@@ -1,1 +1,2 @@
+conflict txt israel
 new line conflict from master !!!!!!!!!!!!!
